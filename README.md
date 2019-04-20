@@ -9,3 +9,4 @@ TouchDesinger clone for [Motion Periodic Table](http://foxcodex.html.xdomain.jp/
 * ShapeTransform
 * Easing
 * Loop
+* RepeatTransform
